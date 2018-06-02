@@ -14,5 +14,3 @@ ELEC2602: Digital Logic
 INFO1103: Introduction to Programming
 
 Tesltra Challenge
-
-SUABE Hackthon 2018
