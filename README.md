@@ -7,6 +7,8 @@ ELEC2103: Simulation and Numerical Solutions in Eng
 
 AMME2960: Biomedical Engineering 2
 
+ELEC3610: E-Business Analysis and Design
+
 ELEC2602: Digital Logic
 
 INFO1103: Introduction to Programming
