@@ -11,8 +11,6 @@ ELEC2602: Digital Logic
 
 INFO1103: Introduction to Programming
 
-COMP5424: Information Technology in Biomedicine
-
 Tesltra Challenge
 
 SUABE Hackthon 2018
